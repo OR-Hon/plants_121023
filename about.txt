@@ -1,0 +1,2 @@
+This repository was created on GitHub (unlike the planets_121023 repository).
+It was then transferred over to the local computer (laptop) and this file was added.
